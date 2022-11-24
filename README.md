@@ -18,3 +18,14 @@
 </div>
 
 ### :man_technologist: About Me :
+
+I am an experienced developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :telescope: My hobbies are creating my own software for Minecraft.
+
+- :seedling: I am experienced in my career and know most programming languages
+
+- :zap: Take a closer look at me, maybe you will see something interesting :)
+
+- :mailbox:My VK: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://vk.com/zanderr_r)
+- :mailbox:My Project: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://vk.com/NiggerCore)
