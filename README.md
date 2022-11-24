@@ -5,3 +5,5 @@
 <div id="badges">
   <img src="https://img.shields.io/github/followers/zanderrrq?style=social" alt="LinkedIn Badge"/>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=zanderrrq&style=flat-square&color=blue" alt=""/>
