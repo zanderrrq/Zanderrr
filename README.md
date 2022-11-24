@@ -10,5 +10,5 @@
 
 <h1>
   Wellcome dear friend
-  <img src="https://media0.giphy.com/media/wKWxuUOcp9fdvckBty/giphy.gif?cid=5e214886apoz2wbr9p64zo9yiugosmhwup07arwycvdla1gv&rid=giphy.gif&ct=g" width="30px"/>
+  <img src="https://media0.giphy.com/media/3ohs4zR0payZuMetmE/giphy.gif?cid=5e214886aj9izh7zxr6gcml9lhaov144hczmsihm03vosfqx&rid=giphy.gif&ct=s" width="30px"/>
 </h1>
